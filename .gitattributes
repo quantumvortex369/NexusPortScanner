@@ -1,0 +1,50 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Force batch files to use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Force shell scripts to use LF
+*.sh text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.tar binary
+*.exe binary
+*.dll binary
+*.pyd binary
+*.so binary
+*.dylib binary
+*.a binary
+*.o binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.pyc binary
+*.pyo binary
+*.pyd binary
+*.pyc binary
+*.pyo binary
