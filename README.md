@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nexus-port-scanner.git
+git clone https://github.com/quantumvortex369/nexus-port-scanner.git
 cd nexus-port-scanner
 
 # Install dependencies
