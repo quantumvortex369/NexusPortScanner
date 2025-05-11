@@ -1,0 +1,4 @@
+colorama>=0.4.4
+rich>=10.0.0
+python-nmap>=0.7.1
+scapy>=2.4.5
